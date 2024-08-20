@@ -232,6 +232,7 @@ exclude:
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
+  - publications.md
   - Dockerfile
   - docker-compose.yml
   - docker-compose-slim.yml
