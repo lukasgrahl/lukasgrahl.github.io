@@ -5,6 +5,7 @@ title: photography
 description: Analogue black and white photography
 nav: true
 nav_order: 7
+featured: false
 ---
 
 This is an example post with image galleries.
