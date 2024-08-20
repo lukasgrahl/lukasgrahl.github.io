@@ -4,7 +4,7 @@ title: a post with code
 date: 2024-08-20 15:09:00
 description: usefull github commands
 tags: formatting code
-categories: sample-posts
+categories: code
 featured: false
 ---
 
