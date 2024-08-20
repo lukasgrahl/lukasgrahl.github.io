@@ -22,48 +22,45 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": [
-        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.",
-        "Men of the year 2014 by Time magazine"
-      ]
-    }
-  ],
   "education": [
+    {
+      "institution": "Aarhus University",
+      "location": "Aarhus, Denmark",
+      "url": "",
+      "area": "Economics",
+      "studyType": "PhD",
+      "startDate": "2024-09-01",
+      "endDate": "2027-08-31",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "Paris 1 Panthéon-Sorbonne",
+      "location": "Paris, France",
+      "url": "",
+      "area": "Financial Economics",
+      "studyType": "MSc M2",
+      "startDate": "2023-09-01",
+      "endDate": "2024-06-01",
+      "score": "",
+      "courses": [
+        "Dissertation: Inflation Expectations: Empirical Evidence of Bounded-Rationality and Media Influence"
+      ]
+    },
     {
       "institution": "Paris 1 Panthéon-Sorbonne",
       "location": "Paris, France",
       "url": "",
       "area": "Economics",
-      "studyType": "MSc",
+      "studyType": "MSc M1",
       "startDate": "2022-09-01",
-      "endDate": "2024-06-01",
+      "endDate": "2023-06-01",
       "score": "",
       "courses": [
-        ""
-      ],
-      "dissertation": "Inflation Expectations: Empirical Evidence of Bounded-Rationality and Media Influence"
+        "Dissertation: Dynamic Stochastic General Equilibrium: An application to petrol price inflation"
+      ]
     },
     {
       "institution": "ESB Business School",
@@ -75,9 +72,8 @@
       "endDate": "2022-06-01",
       "score": "",
       "courses": [
-        ""
-      ],
-      "dissertation": "Dissertation: Predictive Power of Machine Learning and Statistic Methods in Stock Market Forecasting"
+        "Dissertation: Predictive Power of Machine Learning and Statistic Methods in Stock Market Forecasting"
+      ]
     },
     {
       "institution": "Lancaster University",
@@ -91,6 +87,17 @@
       "courses": [
         ""
       ]
+    }
+  ],
+  "work": [
+    {
+      "name": "Deutsche Bundesbank",
+      "position": "Research Intern",
+      "url": "https://www.bundesbank.de/en",
+      "startDate": "2023-06-01",
+      "endDate": "1955-08-21",
+      "summary": "Developed an unsupervised news-paper reader, studying pre-financial-crisis news coverage",
+      "highlights": []
     }
   ],
   "awards": [
@@ -122,7 +129,7 @@
   "languages": [
     {
       "language": "German",
-      "fluency": "Native speaker",
+      "fluency": "Native",
       "icon": ""
     },
     {
@@ -134,6 +141,21 @@
       "language": "French",
       "fluency": "C1",
       "icon": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Fondation Biermans Lapôtre Cité Interationale Universitaire de Paris",
+      "location": "Paris, France",
+      "position": "Treasurer",
+      "url": "",
+      "startDate": "2023-09-01",
+      "endDate": "2024-06-01",
+      "summary": "Comité des Résidents",
+      "highlights": [
+        "Started an analogue photography club",
+        "Organised student life at the residence"
+      ]
     }
   ]
 }
