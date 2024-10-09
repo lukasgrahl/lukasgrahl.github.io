@@ -19,6 +19,6 @@ social: true # includes social icons at the bottom of the page
 ---
 Hi, my name is Lukas
 
-I am passionate about economics, statistics and behavioural macroeconomics, some of my work is featured [/repositories](repositories.md)
+I am passionate about economics, statistics and behavioural macroeconomics, some of my work is featured [repositories](https://lukasgrahl.github.io/repositories/)
 
 I also really like art, especially analog photography
