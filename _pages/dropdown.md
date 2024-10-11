@@ -13,5 +13,8 @@ children:
   - title: divider
   - title: blog
     permalink: /blog/
+  - title: divider
+  - title: photography
+    permalink: /photography/
 featured: false
 ---
