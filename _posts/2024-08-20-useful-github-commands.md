@@ -46,7 +46,7 @@ Create **without** *README.md* and *.gitignore* files
 
 ### Link local to remote 
 Add remote origin
-> git remote add origin https://github.com/USER/PROJECT.git
+> git remote add origin `https://github.com/USER/PROJECT.git`
 
 Verify with 
 > git remote -v
