@@ -25,4 +25,4 @@ I am a PhD student at Aarhus University at the Department of Economics and Busin
 My research focuses on behaviour under ambiguity in the context of financial decision making,
 some of my work is featured in [repositories](https://lukasgrahl.github.io/repositories/)
 
-I also really like art, especially analog photography
+I also really like art, especially analog [photography](https://lukasgrahl.github.io/photography/)
