@@ -12,11 +12,11 @@ featured: false
 Register environment as a jupyter kernel
 
 > mamba install jupyterlab ipykernel
-
-> python -m ipykernel install --user --name=env_name
+>
+> python -m ipykernel install --user --name=*ENV_NAME*
 
 Remove jupyter kernel
-> jupyter kernelspec remove env_name
+> jupyter kernelspec remove *ENV_NAME*
 
 
 ## Pip env
@@ -37,7 +37,7 @@ Make it a Git repo, creating main branch
 
 Add and commit files
 > git add .
-
+>
 > git commit -m"initial commit"
 
 ### Create remote on Github.com
@@ -53,3 +53,18 @@ Verify with
 
 Push files
 > git push origin main
+
+## Log-in to Git on server/ new laptop etc.
+Install Git on device
+
+Create acess token on github.com under Settings > Developper Settings > Personal Access Tokens > Tokens (classic).
+Use copy the token and save in a password manager.
+
+Then clone project through https on the new machine.
+> git clone `https://github.com/USER/PROJECT.git`
+
+Git will prompt you to input you USERNAME and the TOKEN as password. Once the project is cloned the token can be saved 
+in Git. This allows you to access Git without having to input the token every time.
+> git config --global credential.helper store
+
+After having executed this command Git will require Username and token one more time, but it will save it for future use.
