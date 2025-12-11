@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Aarhus Business School</p>
-    <p>1816 529 <p>
+    <p>1816 529 </p>
     <p>Universitetsbyen 55</p>
     <p>8000 Aarhus, Denmark</p>
 
