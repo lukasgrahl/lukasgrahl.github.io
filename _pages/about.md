@@ -10,8 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Aarhus Business School</p>
-    <p>Fuglesangs Allé 4</p>
-    <p>8210 Aarhus, Denmark</p>
+    <p>1816 529 <p>
+    <p>Universitetsbyen 55</p>
+    <p>8000 Aarhus, Denmark</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
