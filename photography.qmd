@@ -1,0 +1,66 @@
+---
+title: "Photography"
+description: "I like photography, especially analogue, so here are some pictures"
+---
+
+::: {.page-intro}
+<!-- A small selection of my analogue photography. Click an image to open it at full size. -->
+:::
+
+:::: {.photo-grid}
+<figure>
+  <a href="images/photography/madrid.jpg" target="_blank" rel="noopener">
+    <img src="images/photography/madrid.jpg" alt="Street scene in Madrid" loading="lazy">
+  </a>
+  <figcaption>Madrid</figcaption>
+</figure>
+
+<figure>
+  <a href="images/photography/wien1.jpg" target="_blank" rel="noopener">
+    <img src="images/photography/wien1.jpg" alt="Museum architecture in Vienna" loading="lazy">
+  </a>
+  <figcaption>Vienna</figcaption>
+</figure>
+
+<figure>
+  <a href="images/photography/san_luca.jpg" target="_blank" rel="noopener">
+    <img src="images/photography/san_luca.jpg" alt="Boats at low tide in Sanlúcar de Barrameda" loading="lazy">
+  </a>
+  <figcaption>Sanlúcar de Barrameda</figcaption>
+</figure>
+
+<figure>
+  <a href="images/photography/ffm.jpg" target="_blank" rel="noopener">
+    <img src="images/photography/ffm.jpg" alt="Frankfurt skyline" loading="lazy">
+  </a>
+  <figcaption>Frankfurt</figcaption>
+</figure>
+
+<figure>
+  <a href="images/photography/malaga.jpg" target="_blank" rel="noopener">
+    <img src="images/photography/malaga.jpg" alt="Modernist building façade in Málaga" loading="lazy">
+  </a>
+  <figcaption>Málaga</figcaption>
+</figure>
+
+<figure>
+  <a href="images/photography/paris1.jpg" target="_blank" rel="noopener">
+    <img src="images/photography/paris1.jpg" alt="Night-time concert crowd in Paris" loading="lazy">
+  </a>
+  <figcaption>Paris</figcaption>
+</figure>
+
+<figure>
+  <a href="images/photography/paris2.jpg" target="_blank" rel="noopener">
+    <img src="images/photography/paris2.jpg" alt="Modern architecture in Paris" loading="lazy">
+  </a>
+  <figcaption>Paris</figcaption>
+</figure>
+
+<figure>
+  <a href="images/photography/wien2.jpg" target="_blank" rel="noopener">
+    <img src="images/photography/wien2.jpg" alt="Interior of a cathedral in Vienna" loading="lazy">
+  </a>
+  <figcaption>Vienna</figcaption>
+</figure>
+::::

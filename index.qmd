@@ -1,0 +1,28 @@
+---
+pagetitle: "Lukas A. Grahl"
+description: "PhD student in Finance and Economics at Aarhus University."
+---
+
+:::: {.home-hero}
+::: {.home-photo-wrap}
+<img class="home-photo" src="images/portrait.jpg" alt="Portrait of Lukas A. Grahl">
+:::
+
+::: {.home-copy}
+<p class="eyebrow">PhD student in Finance and Economics · Aarhus University</p>
+
+# Lukas A. Grahl
+
+<p class="home-lead">I am a PhD student at the Department of Economics and Business Economics at Aarhus University. My research lies at the intersection of household finance and behavioural finance, with a focus on decision-making under ambiguity and uncertainty.</p>
+
+<!-- I am particularly interested in how investors form beliefs, process information, and adjust their portfolios over time. Outside research, I enjoy running, cooking, rowing, and analogue photography. -->
+
+::: {.home-links aria-label="Profile links"}
+[Research](research.qmd)
+[CV](cv.qmd)
+[Email](mailto:lukas.grahl@amkat.de)
+[GitHub](https://github.com/lukasgrahl)
+[LinkedIn](https://www.linkedin.com/in/lukasgrahl)
+:::
+:::
+::::
