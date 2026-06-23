@@ -1,24 +1,22 @@
 ---
 title: "Curriculum Vitae"
-description: "A concise curriculum vitae for Lukas A. Grahl."
+# description: "A concise curriculum vitae for Lukas A. Grahl."
 ---
 
 <div class="cv-intro">
-  <p>This page provides a concise overview. It is intentionally kept simple so that it can be maintained directly in this file.</p>
+  <!-- <p>This page provides a concise overview. It is intentionally kept simple so that it can be maintained directly in this file.</p> -->
 </div>
-
-<!--
-To add a PDF download button, place your current CV at files/cv.pdf and uncomment the next line.
-
+ 
+<!-- To add a PDF download button, place your current CV at files/cv.pdf and uncomment the next line. -->
 [Download full CV](files/cv.pdf){.button .button-primary}
--->
+ 
 
 ## Current position
 
 <div class="cv-row">
   <div class="cv-date">2024–2027</div>
   <div>
-    <strong>PhD in Finance and Economics</strong><br>
+<strong>PhD in Finance and Economics</strong><br>
     Department of Economics and Business Economics, Aarhus University<br>
     Aarhus, Denmark
   </div>
@@ -29,7 +27,7 @@ To add a PDF download button, place your current CV at files/cv.pdf and uncommen
 <div class="cv-row">
   <div class="cv-date">2023–2024</div>
   <div>
-    <strong>MSc in Financial Economics</strong><br>
+<strong>MSc in Financial Economics</strong><br>
     Université Paris 1 Panthéon-Sorbonne, Paris
   </div>
 </div>
@@ -37,7 +35,7 @@ To add a PDF download button, place your current CV at files/cv.pdf and uncommen
 <div class="cv-row">
   <div class="cv-date">2022–2023</div>
   <div>
-    <strong>MSc in Economics</strong><br>
+<strong>MSc in Economics</strong><br>
     Université Paris 1 Panthéon-Sorbonne, Paris
   </div>
 </div>
@@ -45,11 +43,11 @@ To add a PDF download button, place your current CV at files/cv.pdf and uncommen
 <div class="cv-row">
   <div class="cv-date">2018–2022</div>
   <div>
-    <strong>BSc in Business Administration</strong><br>
+<strong>BSc in Business Administration</strong><br>
     ESB Business School, Reutlingen University, and Lancaster University
   </div>
 </div>
-
+<!-- 
 ## Selected experience
 
 <div class="cv-row">
@@ -74,7 +72,7 @@ To add a PDF download button, place your current CV at files/cv.pdf and uncommen
 
 **Methods and software:** Python, Stata, R, SQL, numerical optimisation, panel econometrics, and structural estimation.  
 **Languages:** German (native), English (C2), French (C1).
+ -->
+<!-- ## Contact -->
 
-## Contact
-
-[Email](mailto:lukas.grahl@amkat.de) · [GitHub](https://github.com/lukasgrahl) · [LinkedIn](https://www.linkedin.com/in/lukasgrahl)
+<!-- [Email](mailto:lukas.grahl@amkat.de) · [GitHub](https://github.com/lukasgrahl) · [LinkedIn](https://www.linkedin.com/in/lukasgrahl) -->

@@ -3,32 +3,26 @@ pagetitle: "Lukas A. Grahl"
 description: "PhD student in Finance and Economics at Aarhus University."
 ---
 
-<div class="home-hero">
-  <div class="home-photo-wrap">
-    <img class="home-photo" src="images/portrait.jpg" alt="Portrait of Lukas A. Grahl">
-  </div>
+:::: {.home-hero}
+::: {.home-photo-wrap}
+<img class="home-photo" src="images/portrait.jpg" alt="Portrait of Lukas A. Grahl">
+:::
 
-  <div class="home-copy">
-    <p class="eyebrow">PhD student in Finance and Economics · Aarhus University</p>
-    <h1>Lukas A. Grahl</h1>
+::: {.home-copy}
+<p class="eyebrow">PhD student in Finance and Economics · Aarhus University</p>
 
-    <p class="home-lead">
-      I am a PhD student at the Department of Economics and Business Economics at Aarhus University.
-      My research lies at the intersection of household finance and behavioural finance, with a focus
-      on decision-making under ambiguity and uncertainty.
-    </p>
+# Lukas A. Grahl
 
-    <p>
-      I am particularly interested in how investors form beliefs, process information, and adjust their
-      portfolios over time. Outside research, I enjoy running, cooking, rowing, and analogue photography.
-    </p>
+<p class="home-lead">I am a PhD student at the Department of Economics and Business Economics at Aarhus University. My research lies at the intersection of household finance and behavioural finance, with a focus on decision-making under ambiguity and uncertainty.</p>
 
-    <nav class="home-links" aria-label="Profile links">
-      <a href="research.html">Research</a>
-      <a href="cv.html">CV</a>
-      <a href="mailto:lukas.grahl@amkat.de">Email</a>
-      <a href="https://github.com/lukasgrahl">GitHub</a>
-      <a href="https://www.linkedin.com/in/lukasgrahl">LinkedIn</a>
-    </nav>
-  </div>
-</div>
+<!-- I am particularly interested in how investors form beliefs, process information, and adjust their portfolios over time. Outside research, I enjoy running, cooking, rowing, and analogue photography. -->
+
+::: {.home-links aria-label="Profile links"}
+[Research](research.qmd)
+[CV](cv.qmd)
+[Email](mailto:lukas.grahl@amkat.de)
+[GitHub](https://github.com/lukasgrahl)
+[LinkedIn](https://www.linkedin.com/in/lukasgrahl)
+:::
+:::
+::::

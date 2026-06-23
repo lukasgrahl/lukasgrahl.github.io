@@ -114,6 +114,9 @@ main.content {
   grid-template-columns: minmax(250px, 0.82fr) minmax(340px, 1.18fr);
   margin: 4.5rem auto 2rem;
   max-width: var(--wide-width);
+  width: min(var(--wide-width), calc(100vw - 3rem));
+  margin-left: 50%;
+  transform: translateX(-50%);
   min-height: min(680px, calc(100vh - 170px));
 }
 
@@ -121,6 +124,11 @@ main.content {
   justify-self: end;
   max-width: 410px;
   width: 100%;
+}
+
+
+.home-photo-wrap figure {
+  margin: 0;
 }
 
 .home-photo {
@@ -295,4 +303,51 @@ main.content {
   .photo-grid img {
     transition: none;
   }
+}
+
+/* Links attached to an individual research paper. */
+.paper-links {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem 1rem;
+  margin: 1.1rem 0 2rem;
+}
+
+.paper-links p {
+  display: contents;
+}
+
+.paper-links a:not(.button) {
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+/* Pandoc wraps Markdown content inside fenced divs in paragraphs. */
+.home-photo-wrap p,
+.eyebrow,
+.home-lead,
+.home-links p,
+.cv-row p,
+.cv-intro p,
+.page-intro p {
+  margin-top: 0;
+}
+
+.home-photo-wrap p,
+.home-links p,
+.cv-row p,
+.cv-intro p,
+.page-intro p {
+  margin-bottom: 0;
+}
+
+.home-links p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem 1.35rem;
+}
+
+.cv-entry p {
+  margin: 0;
 }

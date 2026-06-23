@@ -108,11 +108,26 @@ The current site contained a PDF CV, but this package does not overwrite it with
 2. Open `cv.qmd`.
 3. Uncomment the download-button line near the top.
 
-## Adding a research paper
+## Adding a research paper PDF
 
-1. Put the paper in `files/`, for example `files/my-paper.pdf`.
+1. Save the PDF in `files/papers/`, for example:
+
+   ```text
+   files/papers/ambiguity-retail-trading.pdf
+   ```
+
 2. Open `research.qmd`.
-3. Copy the commented paper template and replace its title, coauthors, description, and links.
+3. Copy the commented paper template into the **Working papers** section.
+4. Point its button to the PDF:
+
+   ```markdown
+   [Download paper (PDF)](files/papers/ambiguity-retail-trading.pdf){.button}
+   ```
+
+5. Add optional appendix, slides, code, or external publication links next to it.
+6. Run `quarto preview` to test the link, then commit and push the PDF together with the edited page.
+
+The entire `files/` folder is declared as a Quarto project resource, so PDFs are always copied into the published site. Keep filenames short, lower-case, and separated by hyphens; avoid spaces.
 
 ## Adding photographs
 
@@ -121,3 +136,9 @@ See `images/photography/README.md`. Each new photograph requires one short `<fig
 ## Design choices
 
 The site intentionally avoids a blog, search, automatic publication databases, dark-mode logic, JavaScript galleries, and external font dependencies. It uses system fonts and a small amount of CSS, which keeps maintenance and failure points to a minimum.
+
+## Troubleshooting
+
+### Raw HTML appears as text on the page
+
+The supplied pages use Quarto fenced divs rather than indented nested HTML. This prevents Pandoc from interpreting the page layout as a code block. If you add custom HTML later, avoid indenting it by four spaces inside Markdown; four leading spaces create a code block.
