@@ -1,0 +1,38 @@
+---
+title: "Research"
+description: "Research interests and current work by Lukas A. Grahl."
+---
+
+My research lies at the intersection of **household finance** and **behavioural finance**. I study how investors make decisions under uncertainty and ambiguity, how attention and personal experience shape trading, and how information is incorporated into prices around important market events.
+
+## Research interests
+
+- Household finance and retail investor behaviour
+- Decision-making under ambiguity and uncertainty
+- Belief formation, probability weighting, and investor attention
+- Empirical asset pricing and information processing
+
+## Working papers
+
+Working papers and drafts will be added here as they become publicly available.
+
+<!--
+To add a working paper, copy and edit this block:
+
+### Paper title
+
+**With Coauthor Name**  
+*Working paper, Month Year*
+
+Two or three sentences describing the research question, method, and main contribution.
+
+[Paper](files/paper-name.pdf) · [Slides](files/slides-name.pdf) · [Code](https://github.com/...)
+
+---
+-->
+
+## Work in progress
+
+A selection of current projects examines revealed preferences from household portfolios, retail trading around earnings announcements, and the empirical distinction between distorted beliefs and non-standard preferences.
+
+<!-- Remove or revise the sentence above if you prefer not to describe work in progress publicly. -->

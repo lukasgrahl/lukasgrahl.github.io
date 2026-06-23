@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Lukas A. Grahl"
+  site-url: "https://lukasgrahl.github.io"
+  description: "Personal academic website of Lukas A. Grahl."
+  navbar:
+    background: light
+    pinned: true
+    left:
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+      - href: photography.qmd
+        text: Photography
+  search: false
+  page-footer:
+    left: "Lukas A. Grahl"
+    right:
+      - text: "Email"
+        href: "mailto:lukas.grahl@amkat.de"
+      - text: "GitHub"
+        href: "https://github.com/lukasgrahl"
+  open-graph: true
+  twitter-card: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    anchor-sections: false
+    link-external-newwindow: true
+    smooth-scroll: true
+    lang: en
+
+execute:
+  freeze: auto
