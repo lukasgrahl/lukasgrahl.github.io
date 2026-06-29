@@ -1,6 +1,6 @@
 ---
 title: "Research"
-description: "Research interests and current work by Lukas A. Grahl."
+# description: "Research interests and current work"
 ---
 
 My research lies at the intersection of **household finance** and **behavioural finance**. I study how investors make decisions under uncertainty and ambiguity and how information is incorporated into prices.

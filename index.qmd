@@ -1,6 +1,6 @@
 ---
 pagetitle: "Lukas A. Grahl"
-description: "PhD student in Finance and Economics at Aarhus University."
+# description: "PhD student in Finance and Economics at Aarhus University."
 ---
 
 :::: {.home-hero}
