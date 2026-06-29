@@ -11,7 +11,7 @@ title: "Curriculum Vitae"
 [Download full CV](files/cv.pdf){.button .button-primary}
  
 
-## Current position
+## Education
 
 <div class="cv-row">
   <div class="cv-date">2024–2027</div>
@@ -22,23 +22,23 @@ title: "Curriculum Vitae"
   </div>
 </div>
 
-## Education
-
-<div class="cv-row"><!-- 
+<!-- 
+<div class="cv-row">
   <div class="cv-date">2023–2024</div>
   <div>
 <strong>MSc in Financial Economics</strong><br>
     Université Paris 1 Panthéon-Sorbonne, Paris
   </div>
-</div> -->
+</div>
+ -->
 
 <div class="cv-row">
   <div class="cv-date">2022–2024</div>
   <div>
 <strong>MSc in Economics</strong><br>
     Université Paris 1 Panthéon-Sorbonne, Paris
-    - MSc Economics (M1)
-    - MRes Financial Economics (M2)
+    <!-- - MSc Economics (M1) -->
+    <!-- - MRes Financial Economics (M2) -->
   </div>
 </div>
 
@@ -46,7 +46,7 @@ title: "Curriculum Vitae"
   <div class="cv-date">2018–2022</div>
   <div>
 <strong>BSc in Business Administration</strong><br>
-    ESB Business School, Reutlingen University, and Lancaster University
+    ESB Business School and Lancaster University
   </div>
 </div>
 
@@ -55,16 +55,16 @@ title: "Curriculum Vitae"
 <div class="cv-row">
   <div class="cv-date">2024</div>
   <div>
-    <strong>External Consultant</strong><br>
-    Organisation for Economic Co-operation and Development (OECD)
+<strong>External Consultant</strong><br>
+    Organisation for Economic Co-operation and Development (OECD), Paris
   </div>
 </div>
 
 <div class="cv-row">
   <div class="cv-date">2023</div>
   <div>
-    <strong>Research Intern</strong><br>
-    Deutsche Bundesbank
+<strong>Research Intern</strong><br>
+    Deutsche Bundesbank, Frankfurt am Main
   </div>
 </div>
 
@@ -78,12 +78,15 @@ title: "Curriculum Vitae"
     <strong>Full Scholarship</strong><br>
     Studienstiftung des deutschen Volkes
   </div>
-</div> -->
+</div> 
+-->
+
 <!-- 
 ## Skills and languages
 
 **Methods and software:** Python, Stata, R, SQL, numerical optimisation, panel econometrics, and structural estimation.  
-**Languages:** German (native), English (C2), French (C1). -->
+**Languages:** German (native), English (C2), French (C1).
+ -->
 
 <!-- ## Contact -->
 
