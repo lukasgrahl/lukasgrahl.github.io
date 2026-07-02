@@ -18,8 +18,8 @@ pagetitle: "Lukas A. Grahl"
 <!-- I am particularly interested in how investors form beliefs, process information, and adjust their portfolios over time. Outside research, I enjoy running, cooking, rowing, and analogue photography. -->
 
 ::: {.home-links aria-label="Profile links"}
-[Research](research.qmd)
-[CV](cv.qmd)
+<!-- [Research](research.qmd) -->
+<!-- [CV](cv.qmd) -->
 [Email](mailto:lukas.grahl@amkat.de)
 [GitHub](https://github.com/lukasgrahl)
 [LinkedIn](https://www.linkedin.com/in/lukasgrahl)

@@ -17,8 +17,7 @@ title: "Curriculum Vitae"
   <div class="cv-date">2024–2027</div>
   <div>
 <strong>PhD in Finance and Economics</strong><br>
-    Department of Economics and Business Economics, Aarhus University<br>
-    Aarhus, Denmark
+    Department of Economics and Business Economics, Aarhus University
   </div>
 </div>
 

@@ -16,7 +16,7 @@ My research lies at the intersection of **household finance** and **behavioural 
 
 ### Information processing under ambiguity in financial markets
 
-**With Steffen Meyer and Charline Uhr**  
+**joint work with Steffen Meyer and Charline Uhr**  
 *Working paper, June 2026*
 
 We show that ambiguity affects how information is incorporated into prices. Using
@@ -28,8 +28,10 @@ biguity and risk. We further show that these effects persist for at least 10 day
 reverse within 30 days. This pattern suggests that ambiguity induces temporary price
 distortions rather than persistent post-earnings announcement drift.
 
+*Presented at: FMARC 2026 (received Doctoral Paper Runner-Up Award), DGF Annual Meeting 2025, 10th SDU Finance Workshop*
+
 ::: {.paper-links}
-[Download paper (PDF)](files/papers/ambiea.pdf){.button}
+[Download paper (PDF)](files/papers/2025_ambiea.pdf){.button}
 <!-- [Online appendix](files/papers/paper-name-appendix.pdf) -->
 <!-- [Slides](files/papers/paper-name-slides.pdf) -->
 <!-- [Code](https://github.com/lukasgrahl/repository-name) -->
@@ -66,4 +68,3 @@ Two or three sentences describing the research question, method, and main contri
 
 <!-- A selection of current projects examines revealed preferences from household portfolios, retail trading around earnings announcements, and the empirical distinction between distorted beliefs and non-standard preferences. -->
 
-<!-- Remove or revise the sentence above if you prefer not to describe work in progress publicly. -->
